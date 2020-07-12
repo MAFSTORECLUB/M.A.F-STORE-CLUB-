@@ -1,2 +1,6 @@
 # M.A.F-STORE-CLUB-
-Ac Washing machine and Fridge services instalation and all posts   
+1. Ac service and installation 
+2. Wasing masin service 
+3. fridge service 
+4. All parts 
+   
